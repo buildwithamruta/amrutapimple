@@ -1,20 +1,9 @@
-title: Amruta Pimple
-theme: jekyll-theme-minimal
-description: Personal site for Amruta Pimple
-url: https://buildwithamruta.github.io
-author: Amruta Pimple
 navigation:
-  - title: Home
-    link: /
-  - title: Leadership
-    link: /leadership
-  - title: Engineering
-    link: /engineering
-  - title: Architecture
-    link: /architecture
-  - title: Projects
-    link: /projects
-  - title: Blog
-    link: /blog
-  - title: Contact
-    link: /contact
+  - Home
+  - Engineering Leadership
+  - Architecture
+  - Projects
+  - Product Thinking
+  - Blog
+  - Resume
+  - Contact
